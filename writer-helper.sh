@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-# This little bash script aims to make writers hammer out their first draft without thinking too much or rereading or editing/revising too early.
+# This little bash script aims to make writers hammer out their first draft
+# without thinking too much or rereading or editing/revising too early.
 
 # .md: markdown format (yes, URLs can be included)
 fname="the_story.md"
