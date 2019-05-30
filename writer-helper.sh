@@ -10,5 +10,5 @@ while :
  do
  echo -e "\033[1mWhat happens next?\033[0m ($(($( wc -w <"$fname" ))) words)" 
  read var
- echo $var >> TS_story.md
+ echo $var >> $fname
 done
