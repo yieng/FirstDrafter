@@ -20,6 +20,6 @@ while :
 done
 
 # Before you run this script, be sure to go to the location where you saved this file
-# ("writer-helper.sh", not .txt, not any funny extension),
+# ("writer-helper.sh" only - not .txt, not any funny file extension),
 # and enter the following command (starting with "chmod"):
 #    chmod +x writer-helper.sh
