@@ -13,6 +13,7 @@ read var
 echo $var >> $fname
 
 # This will nag you in bold, like a little child eager to ask you more about your story
+# (and yes, the word count is automatically updated every time you press ENTER)
 while :
  do
  echo -e "\033[1mWhat happens next?\033[0m ($(($( wc -w <"$fname" ))) words)" 
