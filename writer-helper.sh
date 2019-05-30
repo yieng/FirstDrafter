@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-fname="TS_story.md"
+fname="the_story.md"
 
 echo -e "\033[1mWelcome to your story writer! What happens in your story?\033[0m ($(($( wc -w <"$fname" ))) words)"
 read var
