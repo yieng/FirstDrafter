@@ -19,6 +19,7 @@ while :
  echo $var >> $fname
 done
 
-# Before you run this script, be sure to go to the location where you saved this file ("writer-helper.sh"),
+# Before you run this script, be sure to go to the location where you saved this file
+# ("writer-helper.sh", not .txt, not any funny extension),
 # and enter the following command (starting with "chmod"):
-# chmod +x writer-helper.sh
+#    chmod +x writer-helper.sh
