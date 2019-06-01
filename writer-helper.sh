@@ -25,3 +25,10 @@ done
 # ("writer-helper.sh" only - not .txt, not any funny file extension),
 # and enter the following command (starting with "chmod"):
 #    chmod +x writer-helper.sh
+
+# One more issue:
+# if your input content includes a series of asterisks, say ** or *** or more,
+# a horrible thing happens: instead of what you type, all the files in the same directory as
+# writing-helper.sh will be inputted to your work-in-progress.
+# So, just in case your work contains sensitive content, please refrain from using asterisks.
+# Otherwise, you will be puzzled at why there were stranegeg file names in your draft.
