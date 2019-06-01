@@ -1,2 +1,6 @@
-# test1-story
-web dev course ex 1
+# A first draft creator
+
+More to come soon.
+
+## Known issues:
+- Please don't use double or triple asterisks because they will mess up your first draft.
