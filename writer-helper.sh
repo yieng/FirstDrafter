@@ -31,4 +31,4 @@ done
 # a horrible thing happens: instead of what you type, all the files in the same directory as
 # writing-helper.sh will be inputted to your work-in-progress.
 # So, just in case your work contains sensitive content, please refrain from using asterisks.
-# Otherwise, you will be puzzled at why there were stranegeg file names in your draft.
+# Otherwise, you will be puzzled at why there were strange file names in your draft.
