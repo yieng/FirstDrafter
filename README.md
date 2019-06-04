@@ -18,7 +18,7 @@ More details to come soon.
   - When you run FirstDrafter on Mac or [Hyper](https://hyper.is) Terminal and you use the arrow keys, you get weird outputs (a combination of the A, B, C, D keys and symbols), and that is enough to discourage you from looking back and editing your previous written work.
 - Press `Enter` / `Return` to save what you typed.
 - Word count is automatically computed as you save your work.
-- Use `Ctrl+C` (Windows) / `Control+C` (Mac) to exit FirstDrafter.
+- Use `Ctrl+C` (Windows) / `Control+C` (Mac) to exit FirstDrafter. (Don't forget to save your work!)
 
 ## Known issues:
 - ### Please don't use double or triple asterisks because they will mess up your first draft.
