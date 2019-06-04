@@ -16,7 +16,9 @@ echo $var >> $fname
 # (and yes, the word count is automatically updated every time you press ENTER)
 while :
  do
- echo -e "\033[1mWhy did it happen? (Challenge: Come up with 5 different answers, and decide which one(s) to explore.)\033[0m ($(($( wc -w <"$fname" ))) words)" 
+ echo -e "\033[1mWhy did it happen?\033[0m ($(($( wc -w <"$fname" ))) words)" 
+ echo -e "\033[1m (Challenge: Come up with 5 different answers, and decide which one(s) to explore.)\033[0m" 
+ 
  read var
  echo $var >> $fname
 done
