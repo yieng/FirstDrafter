@@ -4,7 +4,7 @@
 
 There are two versions of this app, each for a different purpose:
 - `writer-helper`: for writers who begin with a premise or an opening scene, and
-- `start-from-the-end`: for writers who begin with the ending.
+- `start-at-the-end`: for writers who begin with the ending.
 
 For simplicity, both are called FirstDrafter.
 
