@@ -1,6 +1,6 @@
 # FirstDrafter
-*A pair of tools enabling novelists to write their first draft*  
-*the way it's meant to be written, without abandon, without editing, and without looking back*
+*A pair of tools enabling novelists to write their first draft the way it's meant to be written:*  
+*without abandon, without editing, and without looking back*
 
 There are two versions of this app, each for a different purpose:
 - `writer-helper`: for writers who begin with a premise or an opening scene, and
