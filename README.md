@@ -15,7 +15,7 @@ More details to come soon.
   - In the Mac Terminal, use the command ```chmod +x [name of .sh script]; ./[name of .sh script]```.
   - In the [Hyper](https://hyper.is) terminal, use the command ```bash [name of .sh script]```.
 - This tool discourages you from editing too early:
-  - When you run FirstDrafter on Mac or [Hyper](https://hyper.is Terminal and you use the arrow keys, you get weird outputs (a combination of the A, B, C, D keys and symbols), and that is enough to discourage you from looking back and editing your previous written work.
+  - When you run FirstDrafter on Mac or [Hyper](https://hyper.is) Terminal and you use the arrow keys, you get weird outputs (a combination of the A, B, C, D keys and symbols), and that is enough to discourage you from looking back and editing your previous written work.
 - Press `Enter` / `Return` to save what you typed.
 - Word count is automatically computed as you save your work.
 - Use `Ctrl+C` (Windows) / `Control+C` (Mac) to exit FirstDrafter.
