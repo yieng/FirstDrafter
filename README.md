@@ -3,8 +3,8 @@
 *without abandon, without editing, and without looking back*
 
 There are two versions of this app, each for a different purpose:
-- `writer-helper`: for writers who begin with a premise or an opening scene, and
-- `start-at-the-end`: for writers who begin with the ending.
+- `writer-helper.sh`: for writers who begin with a premise or an opening scene, and
+- `start-at-the-end.sh`: for writers who begin with the ending.
 
 They work in similar ways. For simplicity, both are called FirstDrafter.
 
