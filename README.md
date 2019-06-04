@@ -6,7 +6,12 @@ There are two versions of this app, each for a different purpose:
 - `writer-helper`: for writers who begin with a premise or an opening scene, and
 - `start-from-the-end`: for writers who begin with the ending.
 
+For simplicity, both are called FirstDrafter.
+
 More details to come soon.
+
+## Features:
+- When you run FirstDrafter on Mac Terminal and you use the arrow keys, you get strange outputs (a combination of the A, B, C, D keys and symbols), and that is enough to discourage you from looking back and editing your previous written work.
 
 ## Known issues:
 - ### Please don't use double or triple asterisks because they will mess up your first draft.
