@@ -19,3 +19,5 @@ More details to come soon.
 ## Known issues:
 - ### Please don't use double or triple asterisks because they will mess up your first draft.
    If your input content includes a series of asterisks, say \*\* or \*\*\* or more, a horrible thing happens: instead of what you type, all the files in the same directory as writing-helper.sh will be inputted to your work-in-progress. So, just in case your work contains sensitive content, please refrain from using asterisks. Otherwise, you will be puzzled at the appearance of strange file names in your draft.
+
+#### All items in this repository are open-source and CC0. Feel free to adapt it for your use.
