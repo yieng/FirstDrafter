@@ -10,7 +10,9 @@ They work in similar ways. For simplicity, both are called FirstDrafter.
 
 More details to come soon.
 
-Update, 12 December 2019: Added a Python script `firstDrafter.py` which does the same thing as `writer-helper.sh`.
+### Update, 12 December 2019:
+Added a Python script `firstDrafter.py` which does the same thing as `writer-helper.sh`.
+**The best part about this?** This works on both Windows and Mac. Just type `python firsrDrafter.py` (or `py -3` if you have Python 2.x and 3.x on your machine)
 
 ## Features:
 - To run the script:
