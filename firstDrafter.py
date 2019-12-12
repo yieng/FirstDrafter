@@ -1,5 +1,5 @@
 import os
-os.chdir("C:/Users/user/Google Drive/MiscellaneousTasks") # change this for yourself
+os.chdir("C:/Users/user/Google Drive/MiscellaneousTasks") # change this by yourself
 
 # it's also handy to have an auto-refresh plugin on your browser displaying your story file, so you can see your changes in real time
 
@@ -17,5 +17,5 @@ while True:
             typing = input("[" + str(wordcount) + " words] What happens in your story? Tell me more: ")
             count += 1
         f.write(typing+"\n")
-        wordcount += len(typing.split(" "))
+        wordcount += len(typing.split(" ")) - 1
 
