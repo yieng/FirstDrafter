@@ -10,6 +10,8 @@ They work in similar ways. For simplicity, both are called FirstDrafter.
 
 More details to come soon.
 
+Update, 12 December 2019: Added a Python script `firstDrafter.py` which does the same thing as `writer-helper.sh`.
+
 ## Features:
 - To run the script:
   - In the Mac Terminal, use the command ```chmod +x [name of .sh script]; ./[name of .sh script]```.
