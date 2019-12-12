@@ -1,5 +1,7 @@
 import os
-os.chdir("C:/Users/user/Google Drive/MiscellaneousTasks")
+os.chdir("C:/Users/user/Google Drive/MiscellaneousTasks") # change this for yourself
+
+# it's also handy to have an auto-refresh plugin on your browser displaying your story file, so you can see your changes in real time
 
 with open("story.txt","r",encoding="utf8") as f:
     already = f.read()
