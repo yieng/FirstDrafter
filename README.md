@@ -12,7 +12,7 @@ More details to come soon.
 
 ### Update, 12 December 2019:
 Added a Python script `firstDrafter.py` which does the same thing as `writer-helper.sh`.
-**The best part about this?** This works on Python 3.x on both Windows and Mac; there are no additional fancy apps to install! Just type `python firstDrafter.py` (or `py -3 firstDrafter.py` if you have Python 2.x and 3.x on your machine)
+**The best part about this?** This works on Python 3.x on both Windows and Mac; there are no fancy steps to take! Just type `python firstDrafter.py` (or `py -3 firstDrafter.py` if you have Python 2.x and 3.x on your machine)
 
 ## Features:
 - To run the script:
